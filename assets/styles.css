@@ -78,15 +78,16 @@ svg {
   height: 100%; /* For at least Firefox */
   min-height: 100%;
 }
+
 .wrapper-inner {
   display: table-cell;
   vertical-align: top;
 }
+
 .cover-container {
   margin-right: auto;
   margin-left: auto;
 }
-
 
 /*
  * Cover
@@ -94,7 +95,7 @@ svg {
 
 .cover {
   padding: 30px;
-  background: rgba(255, 255, 255, 0.3);
+  background: rgba(255, 255, 255, 0.1);
   -webkit-box-shadow: 0 2px 3px 2px rgba(0,0,0,0.2);
   box-shadow: 0 2px 3px 2px rgba(0,0,0,0.2);
 }
@@ -114,6 +115,10 @@ svg {
     margin-left: 1px;
 }
 
+.cover img {
+    max-width: 100%;
+}
+
 
 /*
  * Footer
@@ -123,6 +128,7 @@ svg {
     color: #999; /* IE8 proofing */
     color: rgba(255,255,255,.5);
     margin-bottom: 20px;
+    margin-top: 30px;
 }
 
 .mastfoot svg {
@@ -134,25 +140,24 @@ svg {
 /*
  * Affix and center
  */
+@media (max-width: 768px) {
+        .cover-container {
+            margin-top: 20px;
+        }
+}
 
 @media (min-width: 768px) {
-  .mastfoot {
-    position: fixed;
-    bottom: 0;
-  }
   /* Start the vertical centering */
   .wrapper-inner {
     vertical-align: middle;
   }
   /* Handle the widths */
-  .mastfoot,
   .cover-container {
     width: 100%; /* Must be percentage or pixels for horizontal alignment */
   }
 }
 
 @media (min-width: 992px) {
-  .mastfoot,
   .cover-container {
     width: 700px;
   }
