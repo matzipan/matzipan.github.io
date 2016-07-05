@@ -1,0 +1,68 @@
+==================================================================
+https://keybase.io/matzipan
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://andreizisu.webmonsters.ro
+  * I am matzipan (https://keybase.io/matzipan) on keybase.
+  * I have a public key with fingerprint A097 394B 1430 335F CD2A  11E6 FB8D EECC BD87 E38E
+
+To do so, I am signing this object:
+
+{
+    "body": {
+        "key": {
+            "eldest_kid": "010189975a41d53db3eec3a0bf27c0904edceafc9f4c2010026a75397927d29485c20a",
+            "fingerprint": "a097394b1430335fcd2a11e6fb8deeccbd87e38e",
+            "host": "keybase.io",
+            "key_id": "fb8deeccbd87e38e",
+            "kid": "010189975a41d53db3eec3a0bf27c0904edceafc9f4c2010026a75397927d29485c20a",
+            "uid": "a13a7ba112b551256a3e6d3d68477619",
+            "username": "matzipan"
+        },
+        "service": {
+            "hostname": "andreizisu.webmonsters.ro",
+            "protocol": "https:"
+        },
+        "type": "web_service_binding",
+        "version": 1
+    },
+    "ctime": 1467760165,
+    "expire_in": 157680000,
+    "prev": "1f863b19a58540f72f72ebfb67e434b8492a29e2e8c956701648015cdf13e9c0",
+    "seqno": 6,
+    "tag": "signature"
+}
+
+which yields the signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: Keybase OpenPGP v2.0.53
+Comment: https://keybase.io/crypto
+
+yMIzAnicrZJbSBVBGMfP0Uw6ZmWikFTGRvWQnXZ39nqCA0UlidlFLeqop9nd2eN6
+2T3urve0CFIQKyMrSDGMHiQNiSwT8pov3aCym/WSYJQV9WBBD6LNir312DAwzMfv
+///+3zCjsZEuj3vHzwRtor2uwf14+Hqp6/Bx/4ZqQjKUSsJXTRSi+QMVKciyg4Wa
+QvgIkiIpQRR5FjKUwgJFAgjJAJKSSvMyKZIMUmQEVVlUGZnGMElzkGeByIs0r9Ai
+I7C4DIkUQtX0EDLDpqbb2BaSIg9ERqIYQALAqrJCQ4pCnCoJCm4gS4rAIyAgLMw3
+LEeBw0nQQl7NwDV8Cc7H+wf/n3OXzttBCkBewhFpiWUpmuUgQJwCFE5geJ6jRAe0
+kKnDYoTpYmhXaWGoEzUpBK6WaTJyHtaZZIGAumIirUqzSr3lSCo2dMtGpuU1neHC
+pmEbslGEsXzbDls+x8auDDs6DAcXHIOSpiv4UbGiDGs1Qyd8FCZlW3NaUAyHk5EU
+x6YQqCKsmSioOQTLcwKJl9MHlWFLShU4IFEiZAWWIVWexhtJqsTxiAGMJDAiDWkR
+0UiQRZbjsSMjkBQrKyoFkCiThDNjiW4QPg7HhCFsaWkhHdqlJiJqRoZyFrncHtfi
+qAjns7k8S1b8/YLxb6Ln9NTlydvr9yfIfZ9nM3vSp34XrW8Uaup6e+MqZruGyJa8
+7p6OyF15KZ0DfeSBZ2NeO3D+KtgZPzMVvyexNeZjlP9O7am8tOjp8tjVnY1za9KH
+7p944J8JFNYOL3s+OZKx9xLnaZ97VXLWIr31WUODg6G2pm89RnpAiU18KDBX+I5b
+tWOXc1qSJ+41FQxEcAdXZf449/VM5L7czQO3ma1RphkMxH/IfrGpc1to/HTc0cy0
+DPWivyD1fcHgTW9zUkdadsP3I/5jX1p/tb0DrwOJT9yDE91bku7mrO1fOh7ZMrNy
+tGvy7bfm6cqYRy+zSrjdhzaiazdici80fDLrT/Zr657+AY6gQn4=
+=QKU9
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/matzipan
+
+==================================================================
