@@ -63,7 +63,7 @@ body {
     font-family: 'Open Sans', sans-serif;
     color: #fff;
     text-shadow: 0 2px 3px rgba(0,0,0,.6);
-    background-image: radial-gradient(circle, transparent 0%, transparent 40%, #000  100%), repeating-linear-gradient(transparent, transparent 54px, rgba(255,255,255,0.2) 54px, rgba(255,255,255,0.2) 55px), repeating-linear-gradient(to right, transparent, transparent 54px, rgba(255,255,255,0.2) 54px, rgba(255,255,255,0.2) 55px), repeating-linear-gradient(transparent, transparent 10px, rgba(255,255,255, 0.1) 10px, rgba(255,255,255,0.1) 11px), repeating-linear-gradient(to right, transparent, transparent 10px, rgba(255,255,255, 0.1) 10px, rgba(255,255,255,0.1) 11px), radial-gradient(circle, rgb(4, 61, 172) 0%, rgb(4, 49, 136) 30%
+    background-image: radial-gradient(circle, transparent 0%, transparent 40%, #000  100%), repeating-linear-gradient(transparent, transparent 54px, rgba(255,255,255,0.2) 54px, rgba(255,255,255,0.2) 55px), repeating-linear-gradient(to right, transparent, transparent 54px, rgba(255,255,255,0.2) 54px, rgba(255,255,255,0.2) 55px), repeating-linear-gradient(transparent, transparent 10px, rgba(255,255,255, 0.1) 10px, rgba(255,255,255,0.1) 11px), repeating-linear-gradient(to right, transparent, transparent 10px, rgba(255,255,255, 0.1) 10px, rgba(255,255,255,0.1) 11px), radial-gradient(circle, rgb(4, 61, 172) 0%, rgb(4, 49, 136) 30%);
 }
 
 svg {
