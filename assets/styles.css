@@ -142,13 +142,7 @@ svg {
     justify-content: center;
   }
   /* Handle the widths */
-  .cover-container {
-    width: 100%; /* Must be percentage or pixels for horizontal alignment */
-  }
-}
-
-@media (min-width: 992px) {
-  .cover-container {
+  .wrapper-inner {
     width: 700px;
     margin-top: 0;
   }
