@@ -132,14 +132,8 @@ svg {
     width: 24px;
 }
 
-
-/*
- * Affix and center
- */
-@media (max-width: 768px) {
-        .cover-container {
-            margin-top: 20px;
-        }
+.cover-container {
+    margin-top: 20px;
 }
 
 @media (min-width: 768px) {
@@ -156,6 +150,7 @@ svg {
 @media (min-width: 992px) {
   .cover-container {
     width: 700px;
+    margin-top: 0;
   }
 }
 
