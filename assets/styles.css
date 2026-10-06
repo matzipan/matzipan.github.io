@@ -60,7 +60,7 @@ html{
 }
 
 body {
-    font-family: 'Open Sans', sans-serif;
+    font-family: 'Inter', sans-serif;
     color: #fff;
     text-shadow: 0 2px 3px rgba(0,0,0,.6);
     background: repeating-linear-gradient(transparent, transparent 54px, rgba(255,255,255,0.2) 54px, rgba(255,255,255,0.2) 55px), repeating-linear-gradient(to right, transparent, transparent 54px, rgba(255,255,255,0.2) 54px, rgba(255,255,255,0.2) 55px), repeating-linear-gradient(transparent, transparent 10px, rgba(255,255,255, 0.1) 10px, rgba(255,255,255,0.1) 11px), repeating-linear-gradient(to right, transparent, transparent 10px, rgba(255,255,255, 0.1) 10px, rgba(255,255,255,0.1) 11px), rgb(4, 49, 136);
@@ -145,10 +145,6 @@ svg {
     width: 700px;
     margin-top: 0;
   }
-}
-
-h1, h2, h3, h4 {
-    font-family: 'Roboto', sans-serif;
 }
 
 h1, h2, h3 { 
